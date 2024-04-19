@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "d121",
+      "cityName": "Velilla de la Sierra",
+      "countryName": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-06T05:07:22.986Z",
+      "notes": "",
+      "position": {
+        "lat": "41.788327165060736",
+        "lng": "-2.4060058593750004"
+      }
+    },
+    {
+      "id": "db19",
+      "cityName": "Rohtak",
+      "countryName": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-06T05:10:20.288Z",
+      "notes": "",
+      "position": {
+        "lat": "28.902756894264133",
+        "lng": "76.59118652343751"
+      }
+    },
+    {
+      "id": "75dd",
+      "cityName": "New Delhi",
+      "countryName": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-06T05:20:09.874Z",
+      "notes": "",
+      "position": {
+        "lat": "28.608139599676154",
+        "lng": "77.19568559816793"
+      }
+    },
+    {
+      "id": "f9b4",
+      "cityName": "Gurugram District",
+      "countryName": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-06T05:20:28.977Z",
+      "notes": "",
+      "position": {
+        "lat": "28.46087371588368",
+        "lng": "77.11044926554645"
+      }
+    },
+    {
+      "id": "dd0d",
+      "cityName": "Bharatpur",
+      "countryName": "Nepal",
+      "emoji": "🇳🇵",
+      "date": "2024-04-06T05:23:16.357Z",
+      "notes": "",
+      "position": {
+        "lat": "27.66013341587755",
+        "lng": "84.4189453125"
+      }
+    }
+  ]
+}
